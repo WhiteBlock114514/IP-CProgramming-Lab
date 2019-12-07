@@ -1,14 +1,14 @@
+////
+////  main.h
+////  Ctools
+////
+////  Created by StariMac1 on 2019/11/11.
+////  Copyright © 2019 StariMac1. All rights reserved.
+////
 //
-//  main.h
-//  Ctools
+//#ifndef main_h
+//#define main_h
 //
-//  Created by StariMac1 on 2019/11/11.
-//  Copyright © 2019 StariMac1. All rights reserved.
+//#include <stdio.h>
 //
-
-#ifndef main_h
-#define main_h
-
-#include <stdio.h>
-
-#endif /* main_h */
+//#endif /* main_h */
