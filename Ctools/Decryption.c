@@ -13,13 +13,13 @@
 //    }
 //    printf("\n");
 //    return 0;
-//    
+//
 //}
 //
 //char* decrypts(void)
 //{
 //    int array[sizeof(messenge)/sizeof(messenge[0])];
-//    
+//
 //    for (int i = 1; i <= sizeof(messenge)/sizeof(messenge[0]) ; i++)
 //    {
 //        array[i-1] = messenge[i-1]^31337;
