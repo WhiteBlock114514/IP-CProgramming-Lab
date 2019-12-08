@@ -5,7 +5,7 @@
 //  Created by StariMac1 on 2019/12/7.
 //  Copyright © 2019 StariMac1. All rights reserved.
 //
-
+//
 #include <stdio.h>
 
 struct Change{
@@ -34,7 +34,7 @@ int main()
     printChange(coins);
     coins = getChange(1232, 2000);
     printChange(coins);
-    
+
     getchar();
     return 0;
 }

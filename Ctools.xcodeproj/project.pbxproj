@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		6B13EE5F23798A1E00347BB0 /* Decryption.c in Sources */ = {isa = PBXBuildFile; fileRef = 6B13EE5E23798A1E00347BB0 /* Decryption.c */; };
 		6B8C161F239BCC3500B91D3F /* Vending machines.c in Sources */ = {isa = PBXBuildFile; fileRef = 6B8C161E239BCC3500B91D3F /* Vending machines.c */; };
-		7DD1B3A8239B8C5E0096A333 /* Vending machine.c in Sources */ = {isa = PBXBuildFile; fileRef = 7DD1B3A7239B8C5E0096A333 /* Vending machine.c */; };
+		7DD1B3A8239B8C5E0096A333 /* time.c in Sources */ = {isa = PBXBuildFile; fileRef = 7DD1B3A7239B8C5E0096A333 /* time.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,7 +30,7 @@
 		6B8C161E239BCC3500B91D3F /* Vending machines.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "Vending machines.c"; sourceTree = "<group>"; };
 		6BF70E4523740DE700CAC681 /* Ctools */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ctools; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DD1B3A6239B8C5E0096A333 /* Vending machine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Vending machine.h"; sourceTree = "<group>"; };
-		7DD1B3A7239B8C5E0096A333 /* Vending machine.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "Vending machine.c"; sourceTree = "<group>"; };
+		7DD1B3A7239B8C5E0096A333 /* time.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = time.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 				6B13EE5D23798A1E00347BB0 /* main.h */,
 				6B13EE5E23798A1E00347BB0 /* Decryption.c */,
 				7DD1B3A6239B8C5E0096A333 /* Vending machine.h */,
-				7DD1B3A7239B8C5E0096A333 /* Vending machine.c */,
+				7DD1B3A7239B8C5E0096A333 /* time.c */,
 				6B8C161E239BCC3500B91D3F /* Vending machines.c */,
 			);
 			path = Ctools;
@@ -129,7 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7DD1B3A8239B8C5E0096A333 /* Vending machine.c in Sources */,
+				7DD1B3A8239B8C5E0096A333 /* time.c in Sources */,
 				6B13EE5F23798A1E00347BB0 /* Decryption.c in Sources */,
 				6B8C161F239BCC3500B91D3F /* Vending machines.c in Sources */,
 			);
