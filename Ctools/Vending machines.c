@@ -58,3 +58,4 @@
 //{
 //    printf("200\t100\t50\t20\t10\t5\t2\t1\n%d\t%d\t%d\t%d\t%d\t%d\t%d\t%d\n\n",m.p200,m.p100,m.p50,m.p20,m.p10,m.p5,m.p2,m.p1);
 //}
+//
